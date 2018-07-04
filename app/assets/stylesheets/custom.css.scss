@@ -1,5 +1,6 @@
 $navbar-default-bg: #0086b3;
 
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -17,8 +18,8 @@ $navbar-default-bg: #0086b3;
   text-decoration: none;
 }
 
-#white {
-  color: #fff;
+.white {
+  color: #fff !important;
 }
 
 .center {
